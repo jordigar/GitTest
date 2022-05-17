@@ -1,0 +1,8 @@
+git init
+git status
+git add prova.txt
+git commit -m "Aquest no és el meu primer commit"
+git remote add origin https://github.com/jordigar
+//si m'equivoco		git remote set-url origin https://github.com/jordigar/GitTest
+git push origin master
+git status
